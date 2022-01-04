@@ -33,7 +33,7 @@ English
 
 # Screenshots
 
-Ingresar cadena de ADN / Iput DNA query
+Ingresar cadena de ADN / Input DNA query
 
 ![Algorithm schema](./images/enterdna.png)
 
