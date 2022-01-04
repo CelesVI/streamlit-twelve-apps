@@ -11,7 +11,7 @@ Data science apps course made by Data Professor with the objective of being an i
 Each app is in its own separate folder and has its own requirements.txt to install and run the app.
 You must have python 3.x already installed.
 
-# Technology
+# Technologies
 * Python 3.x
 * Streamlit
 * Pandas
