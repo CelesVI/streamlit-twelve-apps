@@ -19,7 +19,7 @@ You must have python 3.x already installed.
 * yfinance
 
 # Route to apps
-* [Stock app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/simple_stock_price_app)
+* [1 - Stock app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/simple_stock_price_app)
 
 # [Link To course](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
