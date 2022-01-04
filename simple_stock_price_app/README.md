@@ -4,6 +4,9 @@
 # Español
 App que muestra las variaciones del cierre y del volumen de una compañía.
 
+# English
+App that shows the closing and volume variations of a company.
+
 # Technologies
 * Python 3.x
 * pandas 1.3.5
