@@ -6,4 +6,5 @@
 # Screenshots
 
 Página principal / Main page
-![Algorithm schema](./image/mainmenu.png)
+
+![Algorithm schema](./images/mainmenu.png)
