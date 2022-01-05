@@ -23,6 +23,8 @@ You must have python 3.x already installed.
 * [2 - DNA app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/bioinformatics_dna_count)
 * [3 - Basketball app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/eda_basketball)
 * [4 - Football app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/eda_football)
+* [5 - S&P500](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/eda_sp500)
 
 # [Link To course](https://www.youtube.com/watch?v=JwSS70SZdyM)
+
 
