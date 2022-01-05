@@ -1,4 +1,4 @@
-# Simple stock price app
+# Basketball app
 
 # Español
 App que muestra las estadísticas de los jugadores de un equipo de la NBA en un respactivo año.
