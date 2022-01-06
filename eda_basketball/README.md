@@ -33,4 +33,4 @@ Página principal / Main page
 
 ![Algorithm schema](./images/mainmenu.png)
 
-# Deployment on Streamlit:(https://share.streamlit.io/celesvi/streamlit-twelve-apps/main/eda_sp500/sp500app.py)
+# [Deployment on Streamlit](https://share.streamlit.io/celesvi/streamlit-twelve-apps/main/eda_sp500/sp500app.py)
