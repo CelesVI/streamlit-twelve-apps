@@ -41,3 +41,4 @@ Gráficos de cierre / Closing plots
 
 ![Algorithm schema](./images/plots.png)
 
+# [Deployment on Streamlit](https://share.streamlit.io/celesvi/streamlit-twelve-apps/main/eda_sp500/sp500app.py)
