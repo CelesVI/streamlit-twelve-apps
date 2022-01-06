@@ -17,6 +17,12 @@ You must have python 3.x already installed.
 * Pandas
 * Numpy
 * yfinance
+* BeautifulSoup4
+* PIL
+* matplotlib
+* ploty
+* pickle
+* sklearn 
 
 # Route to apps
 * [1 - Stock app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/simple_stock_price_app)
