@@ -23,6 +23,7 @@ You must have python 3.x already installed.
 * ploty
 * pickle
 * sklearn 
+* requests
 
 # Route to apps
 * [1 - Stock app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/simple_stock_price_app)
