@@ -1,4 +1,4 @@
-# Simple stock price app
+# Classification Iris
 
 # Español
 App que muestra la predición de tipo de iris según los parámetros dados. 
