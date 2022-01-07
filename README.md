@@ -24,6 +24,7 @@ You must have python 3.x already installed.
 * pickle
 * sklearn 
 * requests
+* shap
 
 # Route to apps
 * [1 - Stock app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/simple_stock_price_app)
@@ -34,6 +35,7 @@ You must have python 3.x already installed.
 * [6 - Crypto app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/eda_crypto)
 * [7 - Iris app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/classification_iris)
 * [8 - Penguin app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/classification_penguins)
+* [9 - House app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/house_regression)
 
 # [Link To course](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
