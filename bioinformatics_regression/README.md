@@ -22,6 +22,7 @@ App that shows the prediction of the solubility according to parameters.
 3 - Correr, en terminal, el comando streamlit run solubilityapp.py. Se abrirá en el puerto 8501.
 
 English
+
 1 - Download the repo.
 
 2 - Run, in terminal, the file requirements.txt.
