@@ -36,6 +36,7 @@ You must have python 3.x already installed.
 * [7 - Iris app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/classification_iris)
 * [8 - Penguin app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/classification_penguins)
 * [9 - House app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/house_regression)
+* [10 - Solubility app](https://github.com/CelesVI/streamlit-twelve-apps/tree/main/bioinformatics_regression)
 
 # [Link To course](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
